@@ -9,8 +9,11 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.st</groupId>
-    <artifactId>mogu_blog</artifactId>
+    <artifactId>hellos_blog</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>hellos_admin</module>
+    </modules>
     <packaging>pom</packaging>
     <name>hellos_blog</name>
     <description>a blog web</description>
